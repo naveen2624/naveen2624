@@ -1,6 +1,23 @@
-# 💫 About Me:
-Hi there, I'm Naveen 👋<br><br>I'm a passionate software engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.79. I enjoy building projects in various domains, such as automation, web development, and machine learning, and I'm always looking for new challenges.<br><br>💻 What I’m Working On:<br>-Indian Sign Language Detection using deep learning (Multi-language support for Australian, British, Indian, Japanese, and French sign languages).<br>-Team Finder Website: A platform to help students find teams for hackathons and college events within the college.<br><br><br>🌱 What I’m Learning:<br>-Diving deeper into AI & Machine Learning, especially in applying these skills to real-world problems.<br>-Experimenting with Kaggle datasets to sharpen my data science skills.<br>-Enhancing my knowledge of UI automation with Python Selenium.<br><br>👨‍💻 Projects:<br>-Web Automation: Automated UI checks using Selenium, Python, and PyYAML.<br>-Text & Link Parser: Built a tool to extract links and text from over 1000 files, storing the results in Excel.<br>-Client-Server Voice Command System: Developed a client-server architecture using Flask and React that accepts voice commands.<br><br>💼 Previous Experience:<br>-Granite River Labs Technologies (GRL Technologies): Worked as a Summer Intern on a web testing automation project using Python Selenium.<br>
+### Hi there, I'm Naveen 👋
 
+I'm a passionate software engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.79. I enjoy building projects in various domains, such as automation, web development, and machine learning, and I'm always looking for new challenges.
+
+### 💻 What I’m Working On:
+- **Indian Sign Language Detection** using deep learning (Multi-language support for Australian, British, Indian, Japanese, and French sign languages).
+- **Team Finder Website**: A platform to help students find teams for hackathons and college events within the college.
+
+### 🌱 What I’m Learning:
+- Diving deeper into **AI & Machine Learning**, especially in applying these skills to real-world problems.
+- Experimenting with **Kaggle datasets** to sharpen my data science skills.
+- Enhancing my knowledge of **UI automation** with Python Selenium.
+
+### 👨‍💻 Projects:
+- **Web Automation**: Automated UI checks using Selenium, Python, and PyYAML.
+- **Text & Link Parser**: Built a tool to extract links and text from over 1000 files, storing the results in Excel.
+- **Client-Server Voice Command System**: Developed a client-server architecture using Flask and React that accepts voice commands.
+
+### 💼 Previous Experience:
+- **Granite River Labs Technologies (GRL Technologies)**: Worked as a Summer Intern on a web testing automation project using Python Selenium.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveee.nn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenudai) [![Hackerrank](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge)](https://www.hackerrank.com/profile/nu5460) 
