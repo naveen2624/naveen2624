@@ -21,6 +21,9 @@ I'm a passionate software engineering student currently in my 3rd year of Comput
 <h2 align="left">🌐 Socials:</h2>
 
 ###
+<h2 align="left">🌐 Socials:</h2>
+
+###
 
 <div align="left">
   <a href="naveenudai26@gmail.com" target="_blank">
