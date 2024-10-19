@@ -18,7 +18,6 @@ I'm a passionate software engineering student currently in my 3rd year of Comput
 
 ### 💼 Previous Experience:
 - **Granite River Labs Technologies (GRL Technologies)**: Worked as a Summer Intern on a web testing automation project using Python Selenium.
-<h2 align="left">🌐 Socials:</h2>
 
 ###
 <h2 align="left">🌐 Socials:</h2>
