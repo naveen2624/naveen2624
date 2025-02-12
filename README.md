@@ -1,6 +1,6 @@
 ### Hi there, I'm Naveen 👋
 
-I'm a passionate software engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.86. I enjoy building projects in various domains, such as automation, web development, and machine learning, and I'm always looking for new challenges.
+I'm a passionate Computer Engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.86. I enjoy building projects in various domains, such as automation, web development, and machine learning, Data Science and I'm always looking for new challenges.
 
 ### 💻 What I’m Working On:
 - **Indian Sign Language Detection** using deep learning (Multi-language support for Australian, British, Indian, Japanese, and French sign languages).
