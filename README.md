@@ -1,10 +1,10 @@
 ### Hi there, I'm Naveen 👋
 
-I'm a passionate Computer Engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.86. I enjoy building projects in various domains, such as automation, web development, and machine learning, Data Science and I'm always looking for new challenges.
+I'm a passionate Computer Engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.96. I enjoy building projects in various domains, such as automation, web development, and machine learning, Data Science and I'm always looking for new challenges.
 
 ### 💻 What I’m Working On:
-- **Indian Sign Language Detection** using deep learning (Multi-language support for Australian, British, Indian, Japanese, and French sign languages).
-- **Team Finder Website**: A platform to help students find teams for hackathons and college events within the college.
+- **Mealora:** A cloud kitchen subscription platform that delivers home-style meals, offering flexible plans tailored to individual tastes and nutrition goals.
+- **NutriPredict:** A personalized diet recommendation and prediction platform that analyzes user health data, preferences, and goals to suggest customized meal plans and forecast nutritional needs.
 
 ### 🌱 What I’m Learning:
 - Diving deeper into **AI & Machine Learning**, especially in applying these skills to real-world problems.
@@ -12,9 +12,10 @@ I'm a passionate Computer Engineering student currently in my 3rd year of Comput
 - Enhancing my knowledge of **UI automation** with Python Selenium.
 
 ### 👨‍💻 Projects:
-- **Web Automation**: Automated UI checks using Selenium, Python, and PyYAML.
-- **Text & Link Parser**: Built a tool to extract links and text from over 1000 files, storing the results in Excel.
-- **Client-Server Voice Command System**: Developed a client-server architecture using Flask and React that accepts voice commands.
+- **IELTS Progress Tracker**: A web platform that enables professors to upload study materials, assign tests, and track students’ performance in international exams like IELTS.
+- **RubberPredict**: A machine learning–powered tool that predicts rubber compound properties and recommends optimal formulations based on material compositions.
+- **Web Testing Automation**: A Python Selenium-based automation system for testing web applications, developed during my internship at GRL Technologies.
+- **CampusConnect**: A platform for college students to explore, join, and manage campus events, while clubs can easily host and promote activities.
 
 ### 💼 Previous Experience:
 - **Granite River Labs Technologies (GRL Technologies)**: Worked as a Summer Intern on a web testing automation project using Python Selenium.
