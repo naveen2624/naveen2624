@@ -1,6 +1,6 @@
 ### Hi there, I'm Naveen 👋
 
-I'm a passionate Computer Engineering student currently in my 3rd year of Computer Science Engineering at SRM University, with a CGPA of 8.96. I enjoy building projects in various domains, such as automation, web development, and machine learning, Data Science and I'm always looking for new challenges.
+I'm a passionate Computer Engineering student currently in my 4th year of Computer Science Engineering at SRM Institute of Science and Technology, with a CGPA of 8.96. I enjoy building projects in various domains, such as automation, web development, and machine learning, Data Science and I'm always looking for new challenges.
 
 ### 💻 What I’m Working On:
 - **Mealora:** A cloud kitchen subscription platform that delivers home-style meals, offering flexible plans tailored to individual tastes and nutrition goals.
