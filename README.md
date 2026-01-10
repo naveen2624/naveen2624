@@ -1,16 +1,13 @@
 ### Hi there, I'm Naveen 👋
 
-I'm a passionate Computer Engineering student currently in my 4th year of Computer Science Engineering at SRM Institute of Science and Technology, with a CGPA of 8.96. I enjoy building projects in various domains, such as automation, web development, and machine learning, Data Science and I'm always looking for new challenges.
+I'm a passionate Computer Engineering student in my 4th year of Computer Science Engineering at SRM Institute of Science and Technology, with a CGPA of 8.96.
+I enjoy building real-world, impact-driven projects across Web Development, Automation, Machine Learning, and Data Science, and I’m always eager to explore new technologies and challenges.
 
-### 💻 What I’m Working On:
-- **Mealora:** A cloud kitchen subscription platform that delivers home-style meals, offering flexible plans tailored to individual tastes and nutrition goals.
-- **NutriPredict:** A personalized diet recommendation and prediction platform that analyzes user health data, preferences, and goals to suggest customized meal plans and forecast nutritional needs.
 
 ### 🌱 What I’m Learning:
-- Diving deeper into **AI & Machine Learning**, especially in applying these skills to real-world problems.
-- Experimenting with **Kaggle datasets** to sharpen my data science skills.
-- Enhancing my knowledge of **UI automation** with Python Selenium.
-
+- Advanced Machine Learning & Data Science with real-world datasets
+- FastAPI for scalable ML-powered backend services
+- Next.js for building modern, production-ready full-stack applications
 ### 👨‍💻 Projects:
 - **IELTS Progress Tracker**: A web platform that enables professors to upload study materials, assign tests, and track students’ performance in international exams like IELTS.
 - **RubberPredict**: A machine learning–powered tool that predicts rubber compound properties and recommends optimal formulations based on material compositions.
