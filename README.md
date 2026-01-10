@@ -77,12 +77,6 @@ I enjoy building real-world, impact-driven projects across Web Development, Auto
 
 <img src="https://raw.githubusercontent.com/naveen2624/naveen2624/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://github-readme-stats-naveen.vercel.app/api?username=naveen2624&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-naveen.vercel.app/api/top-langs/?username=naveen2624&layout=compact&theme=dracula" height="150"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naveen2624&label=Profile%20Views&color=blueviolet&style=flat"/>
