@@ -77,17 +77,14 @@ I enjoy building real-world, impact-driven projects across Web Development, Auto
 
 <img src="https://raw.githubusercontent.com/naveen2624/naveen2624/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen2624&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen2624&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen2624&show_icons=true&theme=dracula&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen2624&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/naveen2624/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=naveen2624&label=Profile%20Views&color=blueviolet&style=flat"/>
 </div>
 
-###
